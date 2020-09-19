@@ -1,0 +1,21 @@
+html {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+.content {
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
+
+li {
+    margin-top: 10px;
+}
