@@ -58,3 +58,6 @@ function allerts(val, taskName){
     }, 800);
 };
 ```
+6. Web QA in the Nemo Travel, Web QA in the Mercury Development. Unfinished external web courses in Epam Saratov.
+7. Saratov State University, CSiIT, specialty computer security.
+8. English level: A2, started learning B1.
